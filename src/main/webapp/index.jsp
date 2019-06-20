@@ -15,18 +15,6 @@
     <link href="" rel="stylesheet">
 	<style>
 	
-		
-	.banner-nissan {
-		height: 600px;
-		width: 100%;
- 		min-height: 20%;
-		min-width: 30%;
-		background-image: url("JT2A9660.JPG");
-		background-size: contain;
-		background-repeat:no-repeat;
-		background-position:center;
-	}
-	
 	.banner-nissan {
 		height: 600px;
 		width: 100%;
@@ -61,7 +49,7 @@
 
     <header>
       <div class="collapse bg-dark" id="navbarHeader">
-        <div class="container">
+        <div class="container">		
           <div class="row">
             <div class="col-sm-8 col-md-7 py-4">
               <h4 class="text-white">About</h4>
@@ -121,6 +109,7 @@
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="docker.png" alt="Card image cap">
+		<img class="card-img-top" src="JT2A9660.JPG" alt="Card image cap">		
                 <div class="card-body">
                   <p class="card-text">Learning â Blended to Perfection</p>
                   <div class="d-flex justify-content-between align-items-center">
